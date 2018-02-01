@@ -8,6 +8,6 @@ permalink: "/hworld/"
 
 Hello and welcome to the world of ether.  The invisable world that is the world.  Augmention of reality is the death of reality.
 
-This is my world, my little section where fish are free to develop.
+This is my world, my little section where fish are free.
 
 -- capn {{ page.date }}
